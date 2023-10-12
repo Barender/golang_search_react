@@ -1,0 +1,36 @@
+[
+    {
+      "searchTitle": "Top Food in Dallas",
+      "products": [
+        {
+          "brand_name": "FoodLovers",
+          "product_name": "Tacos",
+          "category": "food",
+          "location": "Dallas"
+        },
+        {
+          "brand_name": "FlavorfulBites",
+          "product_name": "Pizza",
+          "category": "food",
+          "location": "Dallas"
+        }
+      ]
+    },
+    {
+      "searchTitle": "Top Coffee in New York",
+      "products": [
+        {
+          "brand_name": "CoffeeHaven",
+          "product_name": "Dark Roast",
+          "category": "coffee",
+          "location": "New York"
+        },
+        {
+          "brand_name": "CafeDelight",
+          "product_name": "Cappuccino",
+          "category": "coffee",
+          "location": "New York"
+        }
+      ]
+    }
+  ]
